@@ -7,6 +7,10 @@
   <p><b>Apprentice in Software Analysis and Development (ADSO) | Front-End Developer in Training</b></p>
 </div>
 
+<p align="center">
+  <b>⚔️ Att: Cachinhos de Carvão ⚔️</b>
+</p>
+
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=2&section=footer"/>
 </div>
@@ -17,7 +21,7 @@
 * *Front-End Focus:* Passionate about clean and structured layouts using HTML5, CSS3, and JavaScript.
 * *Continuous Learning:* Committed to the constant improvement of my logical and technical skills, always seeking to apply best practices in layout design to every academic project, while also learning something new every day. ✨🚀
 
-att: Crespitos
+
 <br />
 
 <div align="center">
