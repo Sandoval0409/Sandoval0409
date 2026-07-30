@@ -1,16 +1,57 @@
-## Hi there 👋
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:001B44,35:003C8F,70:0057D9,100:4DA3FF"/>
+</div>
 
-<!--
-**Sandoval0409/Sandoval0409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1> 🙋¡Hi! am Valentina Sandoval</h1>
+  <p><b>Apprentice in Software Analysis and Development (ADSO) | Front-End Developer in Training</b></p>
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=2&section=footer"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  About Me
+
+* *Software Development:* Apprentice at SENA (ADSO), focused on understanding the software development lifecycle and building scalable applications.
+* *Front-End Focus:* Passionate about clean and structured layouts using HTML5, CSS3, and JavaScript.
+* *Continuous Learning:* Committed to the constant improvement of my logical and technical skills, always seeking to apply best practices in layout design to every academic project, while also learning something new every day. ✨🚀
+
+att: Crespitos
+<br />
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=2&section=footer"/>
+</div>
+
+###  Technology
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=2&section=footer"/>
+</div>
+
+###  Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />
+</p>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=2&section=footer"/>
+</div>
+
+###  currently studying and learning.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Responsive_Design-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web_Best_Practices-2EA44F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=json&logoColor=white" />
+</p>
